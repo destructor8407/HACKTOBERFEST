@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #e50914;
+  --primary-color: #FF69B4;
   --dark-color: #141414;
 }
 
@@ -33,7 +33,7 @@ a {
 }
 
 p {
-  margin: 0.5rem 0;
+  margin: 0.75rem 0;
 }
 
 img {
@@ -66,7 +66,7 @@ img {
 }
 
 .showcase-top img {
-  width: 170px;
+  width: 180px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -239,7 +239,7 @@ img {
 }
 
 .footer li {
-  line-height: 1.9;
+  line-height: 2.0;
 }
 
 /*  Container  */
